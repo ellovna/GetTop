@@ -1,0 +1,40 @@
+1658429663943	geckodriver	INFO	Listening on 127.0.0.1:56604
+1658429664399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56605" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofilegDpJZN"
+1658429664806	Marionette	INFO	Marionette enabled
+1658429664829	Marionette	INFO	Listening on port 56618
+Read port: 56618
+WebDriver BiDi listening on ws://localhost:56605
+2022-07-21 14:54:24.872 plugin-container[3285:6026285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 14:54:24.873 plugin-container[3285:6026285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-21 14:54:24.895 plugin-container[3285:6026285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 14:54:24.895 plugin-container[3285:6026285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-21 14:54:24.895 plugin-container[3285:6026283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 14:54:24.895 plugin-container[3285:6026283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658429664931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofilegDpJZN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56605/devtools/browser/2b6dcda3-27e9-45bb-bd5c-3e4ccb8256df
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+1658430284088	Marionette	INFO	Stopped listening on port 56618
+1658431910535	geckodriver	INFO	Listening on 127.0.0.1:49278
+1658431911020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1080" "--start-maximized" "--headless" "--remote-debugging-port" "49279" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileQTa9FB"
+*** You are running in headless mode.
+1658431911318	Marionette	INFO	Marionette enabled
+1658431911325	Marionette	INFO	Listening on port 49290
+WebDriver BiDi listening on ws://localhost:49279
+Read port: 49290
+2022-07-21 15:31:51.357 plugin-container[3966:6045660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 15:31:51.357 plugin-container[3966:6045660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-21 15:31:51.376 plugin-container[3966:6045660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 15:31:51.376 plugin-container[3966:6045660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-21 15:31:51.376 plugin-container[3966:6045668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-21 15:31:51.376 plugin-container[3966:6045668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658431911526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileQTa9FB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49279/devtools/browser/f87f0081-0839-4228-ba51-48448a656545
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
