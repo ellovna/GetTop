@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d151eb83-3412-4220-8321-f61c5e175f35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/features/steps/price_filter_mobile_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/price_filter_mobile_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/lost_password_mobile_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/reset_password_mobile_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/Environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/Environment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/tests/price_filter.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/price_filter.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/gettop_lost_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/gettop_lost_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/tests/gettop_lost_password.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tests/gettop_lost_password.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/header.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/header.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,22 @@
       <recent name="$PROJECT_DIR$/../chromedriver" />
     </key>
   </component>
-  <component name="RunManager" selected="Behave.price_filter.feature:Price Filter Slider handle position resents Mobile Version">
+  <component name="RunManager" selected="Behave.gettop_lost_password.feature:GetTop lost password reset Mobile Version">
+    <configuration name="gettop_lost_password.feature:GetTop lost password reset Mobile Version" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="GetTop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/gettop_lost_password.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="GetTop lost password reset Mobile Version" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gettop_lost_password.feature:GetTop lost password reset" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
       <module name="GetTop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,21 +111,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/price_filter.feature" />
-      <SCENRAIO_NAMES SCENRAIO_NAMES="Price Filter Slider handle position resents" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="price_filter_slider.feature:Price Filter Slider handle position resents" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
-      <module name="GetTop" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/tests/price_filter_slider.feature" />
       <SCENRAIO_NAMES SCENRAIO_NAMES="Price Filter Slider handle position resents" />
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
@@ -164,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Behave.gettop_lost_password.feature:GetTop lost password reset Mobile Version" />
+        <item itemvalue="Behave.gettop_lost_password.feature:GetTop lost password reset" />
         <item itemvalue="Behave.price_filter.feature:Price Filter Slider handle position resents Mobile Version" />
         <item itemvalue="Python.Environment" />
         <item itemvalue="Behave.price_filter.feature:Price Filter Slider handle position resents" />
-        <item itemvalue="Behave.gettop_lost_password.feature:GetTop lost password reset" />
-        <item itemvalue="Behave.price_filter_slider.feature:Price Filter Slider handle position resents" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +217,7 @@
       <workItem from="1658796166340" duration="8640000" />
       <workItem from="1658851552511" duration="216000" />
       <workItem from="1658851795928" duration="14610000" />
-      <workItem from="1658868686482" duration="1314000" />
+      <workItem from="1658868686482" duration="4284000" />
     </task>
     <servers />
   </component>
@@ -253,14 +250,15 @@
     <SUITE FILE_PATH="coverage/GetTop$price_filter_slider_feature_Price_Filter_Slider_handle_position_resents.coverage" NAME="price_filter_slider.feature:Price Filter Slider handle position resents Coverage Results" MODIFIED="1658768503872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/GetTop$price_filter_feature_Price_Filter_Slider_handle_position_resents.coverage" NAME="price_filter.feature:Price Filter Slider handle position resents Coverage Results" MODIFIED="1658801775447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/GetTop$Environment.coverage" NAME="Environment Coverage Results" MODIFIED="1658852664620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" />
-    <SUITE FILE_PATH="coverage/GetTop$GetTop_lost_password_feature_GetTop_lost_password_reset.coverage" NAME="GetTop_lost_password.feature:GetTop lost password reset Coverage Results" MODIFIED="1658438629902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/GetTop$GetTop_lost_password.coverage" NAME="GetTop_lost_password Coverage Results" MODIFIED="1658263803630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
     <SUITE FILE_PATH="coverage/GetTop$main_page.coverage" NAME="main_page Coverage Results" MODIFIED="1658263997005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/GetTop$lost_password_feature.coverage" NAME="lost_password.feature Coverage Results" MODIFIED="1658237274637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Features/tests" />
     <SUITE FILE_PATH="coverage/GetTop$GetTop_lost_password_feature.coverage" NAME="GetTop_lost_password.feature Coverage Results" MODIFIED="1658430802763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/GetTop$sample_script.coverage" NAME="sample.script Coverage Results" MODIFIED="1658251695595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" />
-    <SUITE FILE_PATH="coverage/GetTop$gettop_lost_password_feature_GetTop_lost_password_reset.coverage" NAME="gettop_lost_password.feature:GetTop lost password reset Coverage Results" MODIFIED="1658801690888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/GetTop$price_filter_feature_Price_Filter_Slider_handle_position_resents_Mobile_Version.coverage" NAME="price_filter.feature:Price Filter Slider handle position resents Mobile Version Coverage Results" MODIFIED="1658870109089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GetTop$gettop_lost_password_feature_GetTop_lost_password_reset.coverage" NAME="gettop_lost_password.feature:GetTop lost password reset Coverage Results" MODIFIED="1658871127648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GetTop$GetTop_lost_password_feature_GetTop_lost_password_reset.coverage" NAME="GetTop_lost_password.feature:GetTop lost password reset Coverage Results" MODIFIED="1658438629902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GetTop$sample_script.coverage" NAME="sample.script Coverage Results" MODIFIED="1658251695595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features" />
     <SUITE FILE_PATH="coverage/GetTop$GetTop_lost_password_feature_GetTop_lost_password.coverage" NAME="GetTop_lost_password.feature:GetTop lost password Coverage Results" MODIFIED="1658255650131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GetTop$gettop_lost_password_feature_GetTop_lost_password_reset_Mobile_Version.coverage" NAME="gettop_lost_password.feature:GetTop lost password reset Mobile Version Coverage Results" MODIFIED="1658873619339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
