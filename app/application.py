@@ -3,6 +3,7 @@ from pages.header import Header
 from selenium import webdriver
 from pages.reset_password_page import ResetPasswordPage
 from pages.price_filter_page import PriceFilterPage
+from pages.price_filter_mobile_page import PriceFilterMobilePage
 
 
 class Application:
@@ -14,6 +15,7 @@ class Application:
         self.main_page = MainPage(self.driver)
         self.reset_password_page = ResetPasswordPage(self.driver)
         self.price_filter_page = PriceFilterPage(self.driver)
+        self.price_filter_mobile_page = PriceFilterMobilePage(self.driver)
 
 
 
