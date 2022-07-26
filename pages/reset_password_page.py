@@ -8,7 +8,6 @@ class ResetPasswordPage(Page):
     RESET_PASSWORD_BTN = (By. XPATH, '//*[@id="main"]/div[2]/div/div/form/p[3]/button')
     TEXT = (By. XPATH, '//*[@id="wrapper"]/ul/li/div')
 
-
     def click_lost_password(self):
         self.click(*self.LOST_PASSWORD)
 

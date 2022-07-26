@@ -38,3 +38,142 @@ DevTools listening on ws://localhost:49279/devtools/browser/f87f0081-0839-4228-b
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1658794534550	geckodriver	INFO	Listening on 127.0.0.1:49273
+1658794535035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49274" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileBkZYpD"
+2022-07-25 20:15:35.710 plugin-container[16643:6474545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:15:35.731 plugin-container[16643:6474545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658794535732	Marionette	INFO	Marionette enabled
+1658794535765	Marionette	INFO	Listening on port 49283
+WebDriver BiDi listening on ws://localhost:49274
+2022-07-25 20:15:35.813 plugin-container[16643:6474545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:15:35.813 plugin-container[16643:6474545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 20:15:35.813 plugin-container[16643:6474550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:15:35.813 plugin-container[16643:6474550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49283
+1658794535977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileBkZYpD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49274/devtools/browser/b4333645-9992-40b9-989f-a41b339275a3
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+1658794548737	Marionette	INFO	Stopped listening on port 49283
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1658795704140	geckodriver	INFO	Listening on 127.0.0.1:49396
+1658795704651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1080" "--start-maximized" "--headless" "--remote-debugging-port" "49397" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileJf7Rd8"
+*** You are running in headless mode.
+1658795705203	Marionette	INFO	Marionette enabled
+2022-07-25 20:35:05.234 plugin-container[16860:6482678] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:35:05.235 plugin-container[16860:6482678] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 20:35:05.238 plugin-container[16860:6482678] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:35:05.238 plugin-container[16860:6482678] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-25 20:35:05.238 plugin-container[16860:6482683] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-25 20:35:05.238 plugin-container[16860:6482683] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658795705254	Marionette	INFO	Listening on port 49404
+WebDriver BiDi listening on ws://localhost:49397
+Read port: 49404
+1658795705366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5q/m2bw3kjs2vg9c4w5f00kw4rc0000gn/T/rust_mozprofileJf7Rd8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49397/devtools/browser/348acd96-b443-4aea-abf6-7e61fb4374cf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gettop.us"
+1658795717229	Marionette	INFO	Stopped listening on port 49404
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
